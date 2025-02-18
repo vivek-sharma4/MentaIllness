@@ -51,4 +51,4 @@ Contributions are welcome! If you're interested in contributing to this project,
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For inquiries or suggestions, feel free to contact [Your Name](mailto:your.email@example.com).
+For inquiries or suggestions, feel free to contact Vivek Kumar (viveksharma432002@gmail.com).
